@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="zeroht:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/zeroht_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="zeroht/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="zeroht" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
