@@ -1,0 +1,4 @@
+package com.onezero.zeromanage.mapper;
+
+public interface UserMapper {
+}
